@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C263517A-037F-40D9-868A-9F9D8E5B865D}|API\\API.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\authenservice\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C263517A-037F-40D9-868A-9F9D8E5B865D}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C263517A-037F-40D9-868A-9F9D8E5B865D}|API\\API.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\authenservice\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C263517A-037F-40D9-868A-9F9D8E5B865D}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3AD2D1-A696-4AFB-BF8B-B0CC37B98B4D}|Infrastructure\\Infrastructure.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\authenservice\\infrastructure\\ftowncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3AD2D1-A696-4AFB-BF8B-B0CC37B98B4D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ftowncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3AD2D1-A696-4AFB-BF8B-B0CC37B98B4D}|Infrastructure\\Infrastructure.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\authenservice\\infrastructure\\loginrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3AD2D1-A696-4AFB-BF8B-B0CC37B98B4D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\loginrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C263517A-037F-40D9-868A-9F9D8E5B865D}|API\\API.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\authenservice\\api\\appstarts\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C263517A-037F-40D9-868A-9F9D8E5B865D}|API\\API.csproj|solutionrelative:api\\appstarts\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C263517A-037F-40D9-868A-9F9D8E5B865D}|API\\API.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\authenservice\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C263517A-037F-40D9-868A-9F9D8E5B865D}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C263517A-037F-40D9-868A-9F9D8E5B865D}|API\\API.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\authenservice\\api\\appstarts\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C263517A-037F-40D9-868A-9F9D8E5B865D}|API\\API.csproj|solutionrelative:api\\appstarts\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C263517A-037F-40D9-868A-9F9D8E5B865D}|API\\API.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\authenservice\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C263517A-037F-40D9-868A-9F9D8E5B865D}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F33B20-DD7F-474F-8700-7A8DBED6B467}|Domain\\Domain.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\authenservice\\domain\\interfaces\\iloginrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F33B20-DD7F-474F-8700-7A8DBED6B467}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iloginrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C263517A-037F-40D9-868A-9F9D8E5B865D}|API\\API.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\authenservice\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C263517A-037F-40D9-868A-9F9D8E5B865D}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F12086-CC35-415A-B42C-F4D81BA1623D}|Application\\Application.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\authenservice\\application\\usecases\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F12086-CC35-415A-B42C-F4D81BA1623D}|Application\\Application.csproj|solutionrelative:application\\usecases\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3AD2D1-A696-4AFB-BF8B-B0CC37B98B4D}|Infrastructure\\Infrastructure.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\authenservice\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3AD2D1-A696-4AFB-BF8B-B0CC37B98B4D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F33B20-DD7F-474F-8700-7A8DBED6B467}|Domain\\Domain.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\authenservice\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F33B20-DD7F-474F-8700-7A8DBED6B467}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F12086-CC35-415A-B42C-F4D81BA1623D}|Application\\Application.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\authenservice\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F12086-CC35-415A-B42C-F4D81BA1623D}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:35:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:36:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T08:34:50.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T08:34:47.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:39:05.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FtownContext.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\Infrastructure\\FtownContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\FtownContext.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\Infrastructure\\FtownContext.cs",
+              "RelativeToolTip": "Infrastructure\\FtownContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:38:31.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\API\\AppStarts\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "API\\AppStarts\\DependencyInjection.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\API\\AppStarts\\DependencyInjection.cs",
+              "RelativeToolTip": "API\\AppStarts\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:38:22.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "API.csproj",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T19:36:46.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\API\\AppStarts\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "API\\AppStarts\\AutoMapperConfig.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\API\\AppStarts\\AutoMapperConfig.cs",
+              "RelativeToolTip": "API\\AppStarts\\AutoMapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:36:48.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginRepos.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\Infrastructure\\LoginRepos.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\LoginRepos.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\Infrastructure\\LoginRepos.cs",
+              "RelativeToolTip": "Infrastructure\\LoginRepos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:35:39.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILoginRepos.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\Domain\\Interfaces\\ILoginRepos.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ILoginRepos.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\Domain\\Interfaces\\ILoginRepos.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ILoginRepos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:36:37.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginHandler.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\Application\\UseCases\\LoginHandler.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\LoginHandler.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\Application\\UseCases\\LoginHandler.cs",
+              "RelativeToolTip": "Application\\UseCases\\LoginHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:35:14.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:34:31.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:26:48.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:26:30.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Application\\Class1.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AuthenService\\Application\\Class1.cs",
+              "RelativeToolTip": "Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:26:14.519Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1188,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
