@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C6F594-11FC-40D0-B87F-7112A3E5C4E3}|Application\\Application.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\adminservice\\application\\dto\\response\\exresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C6F594-11FC-40D0-B87F-7112A3E5C4E3}|Application\\Application.csproj|solutionrelative:application\\dto\\response\\exresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C6F594-11FC-40D0-B87F-7112A3E5C4E3}|Application\\Application.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\adminservice\\application\\dto\\request\\exrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C6F594-11FC-40D0-B87F-7112A3E5C4E3}|Application\\Application.csproj|solutionrelative:application\\dto\\request\\exrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AD458-34C3-4B69-AB3E-FEBCEDE6620C}|API\\API.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\adminservice\\api\\appstarts\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AD458-34C3-4B69-AB3E-FEBCEDE6620C}|API\\API.csproj|solutionrelative:api\\appstarts\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AD458-34C3-4B69-AB3E-FEBCEDE6620C}|API\\API.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\adminservice\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AD458-34C3-4B69-AB3E-FEBCEDE6620C}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB26A3-B3D1-4DB4-AB75-542F914CB5D7}|Infrastructure\\Infrastructure.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\adminservice\\infrastructure\\accountrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBB26A3-B3D1-4DB4-AB75-542F914CB5D7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\accountrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBB26A3-B3D1-4DB4-AB75-542F914CB5D7}|Infrastructure\\Infrastructure.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\adminservice\\infrastructure\\ftowncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBB26A3-B3D1-4DB4-AB75-542F914CB5D7}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ftowncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D491A54-5404-4D74-9F99-3A0293D32292}|Domain\\Domain.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\adminservice\\domain\\entities\\ftowncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D491A54-5404-4D74-9F99-3A0293D32292}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\ftowncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C6F594-11FC-40D0-B87F-7112A3E5C4E3}|Application\\Application.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\adminservice\\application\\interfaces\\iexamplesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C6F594-11FC-40D0-B87F-7112A3E5C4E3}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iexamplesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AD458-34C3-4B69-AB3E-FEBCEDE6620C}|API\\API.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\adminservice\\api\\appstarts\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AD458-34C3-4B69-AB3E-FEBCEDE6620C}|API\\API.csproj|solutionrelative:api\\appstarts\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AD458-34C3-4B69-AB3E-FEBCEDE6620C}|API\\API.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\adminservice\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{328AD458-34C3-4B69-AB3E-FEBCEDE6620C}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D491A54-5404-4D74-9F99-3A0293D32292}|Domain\\Domain.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\adminservice\\domain\\interfaces\\iaccountrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D491A54-5404-4D74-9F99-3A0293D32292}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iaccountrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AD458-34C3-4B69-AB3E-FEBCEDE6620C}|API\\API.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\adminservice\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AD458-34C3-4B69-AB3E-FEBCEDE6620C}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AD458-34C3-4B69-AB3E-FEBCEDE6620C}|API\\API.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\adminservice\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{328AD458-34C3-4B69-AB3E-FEBCEDE6620C}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D491A54-5404-4D74-9F99-3A0293D32292}|Domain\\Domain.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\adminservice\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D491A54-5404-4D74-9F99-3A0293D32292}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D491A54-5404-4D74-9F99-3A0293D32292}|Domain\\Domain.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\adminservice\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D491A54-5404-4D74-9F99-3A0293D32292}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C6F594-11FC-40D0-B87F-7112A3E5C4E3}|Application\\Application.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\adminservice\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C6F594-11FC-40D0-B87F-7112A3E5C4E3}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:35:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:36:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExResponse.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\Application\\DTO\\Response\\ExResponse.cs",
+              "RelativeDocumentMoniker": "Application\\DTO\\Response\\ExResponse.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\Application\\DTO\\Response\\ExResponse.cs",
+              "RelativeToolTip": "Application\\DTO\\Response\\ExResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T07:32:33.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExRequest.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\Application\\DTO\\Request\\ExRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTO\\Request\\ExRequest.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\Application\\DTO\\Request\\ExRequest.cs",
+              "RelativeToolTip": "Application\\DTO\\Request\\ExRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T07:32:12.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FtownContext.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\Infrastructure\\FtownContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\FtownContext.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\Infrastructure\\FtownContext.cs",
+              "RelativeToolTip": "Infrastructure\\FtownContext.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwFoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:58:39.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FtownContext.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\Domain\\Entities\\FtownContext.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\FtownContext.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\Domain\\Entities\\FtownContext.cs",
+              "RelativeToolTip": "Domain\\Entities\\FtownContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:58:30.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IExamplesServices.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\Application\\Interfaces\\IExamplesServices.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IExamplesServices.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\Application\\Interfaces\\IExamplesServices.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IExamplesServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:57:25.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T08:54:16.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:37:51.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountRepos.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\Infrastructure\\AccountRepos.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AccountRepos.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\Infrastructure\\AccountRepos.cs",
+              "RelativeToolTip": "Infrastructure\\AccountRepos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:29:34.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\API\\AppStarts\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "API\\AppStarts\\DependencyInjection.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\API\\AppStarts\\DependencyInjection.cs",
+              "RelativeToolTip": "API\\AppStarts\\DependencyInjection.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:41:07.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\API\\AppStarts\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "API\\AppStarts\\AutoMapperConfig.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\API\\AppStarts\\AutoMapperConfig.cs",
+              "RelativeToolTip": "API\\AppStarts\\AutoMapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:41:30.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:23:44.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAccountRepos.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\Domain\\Interfaces\\IAccountRepos.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAccountRepos.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\Domain\\Interfaces\\IAccountRepos.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IAccountRepos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:20:58.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "API.csproj",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T19:13:22.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T18:41:36.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:30:56.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Application\\Class1.cs",
+              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\AdminService\\Application\\Class1.cs",
+              "RelativeToolTip": "Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:30:07.963Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1188,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
