@@ -1,6 +1,6 @@
 ﻿
 
-using Infrastructure.Entities;
+using Infrastructure;
 using Microsoft.EntityFrameworkCore;
 
 namespace API.AppStarts
@@ -20,21 +20,12 @@ namespace API.AppStarts
                 options.UseSqlServer(configuration.GetConnectionString("DBDefault"));
             });
 
-           
-
-            // use DI here
-            //services.AddScoped<IUserService, UserServices>();
-
-        }
-
-        public static IServiceCollection AddWebAPIService(this IServiceCollection services)
-        {
             // use DI here
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
-           
-           
+
+
             //services.AddScoped<IOrderRepository, OrderRepository>();
-           
+
 
 
             // auto mapper
@@ -42,7 +33,10 @@ namespace API.AppStarts
 
             services.AddHttpContextAccessor();
 
-            return services;
+            //services.AddScoped<IUserService, UserServices>();
+
         }
+
+      
     }
 }

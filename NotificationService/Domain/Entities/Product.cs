@@ -13,7 +13,17 @@ public partial class Product
 
     public int? CategoryId { get; set; }
 
-    public string? ImageUrl { get; set; }
+    public string? ImagePath { get; set; }
+
+    public string? Origin { get; set; }
+
+    public string? Model { get; set; }
+
+    public string? Occasion { get; set; }
+
+    public string? Style { get; set; }
+
+    public string? Material { get; set; }
 
     public virtual Category? Category { get; set; }
 

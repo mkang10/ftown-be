@@ -15,5 +15,7 @@ public partial class DeliveryTracking
 
     public DateTime? LastUpdated { get; set; }
 
+    public DateTime? EstimatedDeliveryDate { get; set; }
+
     public virtual Order Order { get; set; } = null!;
 }

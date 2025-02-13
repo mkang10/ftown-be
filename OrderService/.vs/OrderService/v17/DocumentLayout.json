@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\OrderService\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F10FB4-56C7-44B6-81BC-DC14516CE053}|Infrastructure\\Infrastructure.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\orderservice\\infrastructure\\ftowncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F10FB4-56C7-44B6-81BC-DC14516CE053}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\ftowncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F10FB4-56C7-44B6-81BC-DC14516CE053}|Infrastructure\\Infrastructure.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\orderservice\\infrastructure\\getorderrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F10FB4-56C7-44B6-81BC-DC14516CE053}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\getorderrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F10FB4-56C7-44B6-81BC-DC14516CE053}|Infrastructure\\Infrastructure.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\orderservice\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E1F10FB4-56C7-44B6-81BC-DC14516CE053}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51196A0A-D5DA-4EB1-ADF3-07AD7145B17D}|Domain\\Domain.csproj|e:\\workspace\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\ftownbe\\orderservice\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{51196A0A-D5DA-4EB1-ADF3-07AD7145B17D}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,30 +32,8 @@
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FtownContext.cs",
-              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\OrderService\\Infrastructure\\FtownContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\FtownContext.cs",
-              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\OrderService\\Infrastructure\\FtownContext.cs",
-              "RelativeToolTip": "Infrastructure\\FtownContext.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAUwDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T08:55:48.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetOrderRepos.cs",
-              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\OrderService\\Infrastructure\\GetOrderRepos.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\GetOrderRepos.cs",
-              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\OrderService\\Infrastructure\\GetOrderRepos.cs",
-              "RelativeToolTip": "Infrastructure\\GetOrderRepos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T08:55:47.339Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
@@ -80,36 +41,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:19:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:36:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Infrastructure.csproj",
-              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\OrderService\\Infrastructure\\Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
-              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\OrderService\\Infrastructure\\Infrastructure.csproj",
-              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-06T08:50:46.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Domain.csproj",
-              "DocumentMoniker": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\OrderService\\Domain\\Domain.csproj",
-              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
-              "ToolTip": "E:\\WORKSPACE\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\FTownBE\\OrderService\\Domain\\Domain.csproj",
-              "RelativeToolTip": "Domain\\Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-06T08:50:40.537Z"
             }
           ]
         },

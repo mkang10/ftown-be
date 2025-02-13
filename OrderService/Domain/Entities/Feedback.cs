@@ -11,13 +11,15 @@ public partial class Feedback
 
     public int ProductId { get; set; }
 
+    public string? Title { get; set; }
+
     public int? Rating { get; set; }
 
     public string? Comment { get; set; }
 
-    public string? ImageUrl { get; set; }
-
     public DateTime? CreatedDate { get; set; }
+
+    public string? ImagePath { get; set; }
 
     public virtual Account Account { get; set; } = null!;
 

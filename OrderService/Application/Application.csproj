@@ -7,11 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Domain\Domain.csproj" />
+    <Folder Include="UseCases\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="ValueObjecs\" />
+    <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
 
 </Project>

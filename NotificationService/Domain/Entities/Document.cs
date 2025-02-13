@@ -15,6 +15,8 @@ public partial class Document
 
     public string? FilePath { get; set; }
 
+    public string? ImagePath { get; set; }
+
     public virtual InventoryTransaction Transaction { get; set; } = null!;
 
     public virtual Account UploadedByNavigation { get; set; } = null!;

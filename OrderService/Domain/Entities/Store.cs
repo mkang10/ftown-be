@@ -9,13 +9,21 @@ public partial class Store
 
     public string StoreName { get; set; } = null!;
 
+    public string? StoreDescription { get; set; }
+
     public string Location { get; set; } = null!;
 
     public int ManagerId { get; set; }
 
-    public string? ImageUrl { get; set; }
-
     public DateTime? CreatedDate { get; set; }
+
+    public string? ImagePath { get; set; }
+
+    public string? StoreEmail { get; set; }
+
+    public string? StorePhone { get; set; }
+
+    public string? OperatingHours { get; set; }
 
     public virtual ICollection<InventoryImport> InventoryImports { get; set; } = new List<InventoryImport>();
 
@@ -24,4 +32,8 @@ public partial class Store
     public virtual Account Manager { get; set; } = null!;
 
     public virtual ICollection<Order> Orders { get; set; } = new List<Order>();
+
+    public virtual ShopManagerDetail? ShopManagerDetail { get; set; }
+
+    public virtual ICollection<StaffDetail> StaffDetails { get; set; } = new List<StaffDetail>();
 }
